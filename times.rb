@@ -3,7 +3,7 @@
 #end
 
 5.times do
-  print "smelly garbage"
+  print "smelly garbage "
 end 
 
 
